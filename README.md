@@ -1,6 +1,6 @@
 # BitGlance
 
-**Your compact crypto-powered clock. Stay on time. Stay on chain.**
+**Your compact crypto watch. Stay on time. Stay on chain.**
 
 ---
 
