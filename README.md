@@ -1,5 +1,5 @@
 # BitGlance
-
+ 
 **Your compact crypto watch. Stay on time. Stay on chain.**
 
 ---
