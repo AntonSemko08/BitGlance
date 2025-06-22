@@ -31,13 +31,32 @@ Perfect device for quickly checking the time and crypto prices right from your d
 
 ---
 
-## Installation
+## What You’ll Need
+To build your own BitGlance device, you'll need the following components:
 
-1. Download the sketch and open it in Arduino IDE
-2. Configure Wi-Fi and API keys in the configuration file
-3. Upload the firmware to your ESP8266
-4. Enjoy!
+📦 Hardware
+Item	Description
+ESP8266 (e.g. D1 Mini)	Wi-Fi microcontroller board
+1.8" TFT Display	ST7735 (128x160), SPI interface
+DHT22 or BME280	Temperature & humidity sensor
+WS2812 LEDs ×2	For night light effects (optional)
+Power source	5V USB adapter or Li-Ion battery + 5V
+3D-printed case	STL provided, or DIY housing
+Wires
 
+🧪 Tools
+Soldering iron (for more permanent build)
+
+Micro USB cable
+
+Arduino IDE installed
+
+Internet connection (for Wi-Fi config)
+
+🧩 Optional
+OTA update support (enabled by default)
+
+Web interface for Wi-Fi and crypto settings
 ---
 
 ## Support
