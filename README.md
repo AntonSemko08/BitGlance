@@ -2,6 +2,8 @@
  
 **Your compact crypto watch. Stay on time. Stay on chain.**
 
+![BitGlance](https://github.com/user-attachments/assets/971d540d-2556-4678-a68d-225e982a9743)
+
 ---
 
 ## Description
