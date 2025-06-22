@@ -36,7 +36,7 @@ To build your own BitGlance device, you'll need the following components:
 
 📦 Hardware
 Item	Description
-ESP8266 (e.g. D1 Mini)	Wi-Fi microcontroller board
+ESP8266 (NODE-MCU)	Wi-Fi microcontroller board
 1.8" TFT Display	ST7735 (128x160), SPI interface
 DHT22 or BME280	Temperature & humidity sensor
 WS2812 LEDs ×2	For night light effects (optional)
