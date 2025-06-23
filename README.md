@@ -4,7 +4,7 @@
 
 ![BitGlance](https://github.com/user-attachments/assets/971d540d-2556-4678-a68d-225e982a9743)
 ![20250622_143734](https://github.com/user-attachments/assets/ae84d527-f508-4357-a036-14ff7ec83b03)
-![20250622_143249 (1)](https://github.com/user-attachments/assets/17b0d1ee-23da-42bd-87d0-57ca64a4a6f2)
+![20250622_143205](https://github.com/user-attachments/assets/594b4921-cb42-41c7-b02d-5906f4617acb)
 ![20250622_143226 (1)](https://github.com/user-attachments/assets/cb4deac8-3d20-47f2-993d-b8a78574d548)
 ![20250622_143249](https://github.com/user-attachments/assets/b50f0b75-b0a0-4480-b0a2-d668475bac98)
 
